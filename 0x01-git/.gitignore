@@ -1,0 +1,1 @@
+Write ups which a user wants Git to ignore in all situations generally go into a file specified in the user’s ~/.gitconfig
